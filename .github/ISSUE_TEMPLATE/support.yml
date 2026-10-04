@@ -1,0 +1,19 @@
+name: Support request
+description: Report a problem or ask a gameplay question
+title: "[Support] "
+body:
+  - type: markdown
+    attributes:
+      value: "Issues are public. Do not share account details, receipts, passwords or personal information."
+  - type: input
+    id: environment
+    attributes:
+      label: Device and app version
+      description: Device model, OS version and app version
+  - type: textarea
+    id: issue
+    attributes:
+      label: What happened?
+      description: Include the chapter and steps that reproduce the problem.
+    validations:
+      required: true
