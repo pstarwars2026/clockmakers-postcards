@@ -2,7 +2,7 @@
 
 Public product, support and privacy pages for the native app.
 
-**Status:** Preparing for App Store release.
+**Status:** Submitted to Apple — awaiting review.
 
 Opening Paris/Venice/Murano case free; Full Adventure unlocks chapters 3–12 for a single US$1.99 in-app purchase (regional pricing applies).
 
